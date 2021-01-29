@@ -8,5 +8,3 @@ int r=a+b;
 System.out.println(r);
 
 }}
-
-//jmhgfd//
